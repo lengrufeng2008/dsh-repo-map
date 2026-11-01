@@ -1,0 +1,4 @@
+- insert:
+    - id: repo-map
+      name: dsh-repo-map
+      config: {}
